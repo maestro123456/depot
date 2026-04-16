@@ -1,0 +1,3 @@
+git remote add origin https://github.com/maestro123456/depot.git
+ git branch -M main 
+git push -u origin main
